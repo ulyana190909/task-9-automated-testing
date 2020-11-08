@@ -7,6 +7,8 @@ build/
 .gradlew
 .gradlew.bat
 .settings.config
+.lombok.config
+
 
 ### STS ###
 .apt_generated
